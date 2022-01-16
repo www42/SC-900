@@ -1,5 +1,7 @@
 # SC-900 Microsoft Security, Compliance, and Identity Fundamentals
 
+## Labs
+
 [SC-900 Labs](https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/tree/master/Instructions/Labs)
 
 ## How to
