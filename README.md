@@ -16,7 +16,7 @@
 
 [Learning Path Describe the basic concepts of cybersecurity](https://docs.microsoft.com/en-us/learn/paths/describe-basic-concepts-of-cybersecurity/)
 
-[Learning Path SC-900 Part 1 - Describe the concepts of security, compliance, and identity](https://docs.microsoft.com/en-us/learn/paths/describe-concepts-of-security-compliance-identity/)
+[*Learning Path* SC-900 Part 1 - Describe the concepts of security, compliance, and identity](https://docs.microsoft.com/en-us/learn/paths/describe-concepts-of-security-compliance-identity/)
 
 
 ## Useful links
