@@ -10,6 +10,14 @@
 
 [Redeem my Azure Pass code](https://github.com/www42/aztraining/blob/master/New-Tenant/Redeem-Azure-Pass.md)
 
+## Microsoft Learn
+
+[Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
+
+[Learning Path Describe the basic concepts of cybersecurity](https://docs.microsoft.com/en-us/learn/paths/describe-basic-concepts-of-cybersecurity/)
+
+[Learning Path SC-900 Part 1 - Describe the concepts of security, compliance, and identity](https://docs.microsoft.com/en-us/learn/paths/describe-concepts-of-security-compliance-identity/)
+
 
 ## Useful links
 
@@ -18,8 +26,6 @@
 [Skillable (Learn on Demand)](https://brainymotion.learnondemand.net) (Register with Training Key)
 
 [Microsoft Certification Poster](https://aka.ms/traincertposter)
-
-[Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
 [Channel 9 Shows (now in Microsoft Learn)](https://docs.microsoft.com/en-us/shows/browse)
 
