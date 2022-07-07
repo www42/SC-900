@@ -4,6 +4,10 @@
 
 [SC-900 Labs](https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/tree/master/Instructions/Labs)
 
+## Feedback
+
+[Feedback zum Seminar (Metrics That Matter)](https://www.metricsthatmatter.com/url/u.aspx?E1D6567A3185762092)
+
 ## How to
 
 [Create a new Tenant in Azure AD](https://github.com/www42/aztraining/blob/master/New-Tenant/Create-Tenant.md) 
