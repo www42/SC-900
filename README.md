@@ -18,6 +18,8 @@
 
 [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
+[My 😀 SC-900 Collection](https://docs.microsoft.com/en-us/users/tjaekel/collections/04jnsdmyd1273j)
+
 Learning Path [SC-900 Primer: Describe the basic concepts of cybersecurity](https://docs.microsoft.com/en-us/learn/paths/describe-basic-concepts-of-cybersecurity/)
 
 Learning Path [SC-900 Part 1: Describe the concepts of security, compliance, and identity](https://docs.microsoft.com/en-us/learn/paths/describe-concepts-of-security-compliance-identity/)
