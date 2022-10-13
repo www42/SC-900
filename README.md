@@ -1,24 +1,24 @@
 # SC-900 Microsoft Security, Compliance, and Identity Fundamentals
 
-## Labs
-
 [SC-900 Labs](https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/tree/master/Instructions/Labs)
 
-## Feedback
+[Skillable (Learn on Demand)](https://brainymotion.learnondemand.net) (Register with Training Key)
 
-[Feedback zum Seminar (Metrics That Matter)](https://www.metricsthatmatter.com/url/u.aspx?E1D6567A3185762092)
 
-## How to
+---
 
-[Create a new Tenant in Azure AD](https://github.com/www42/aztraining/blob/master/New-Tenant/Create-Tenant.md) 
+[Feedback zum Seminar (Metrics That Matter)](https://www.metricsthatmatter.com/url/u.aspx?7705B4091189478111)
 
-[Redeem my Azure Pass code](https://github.com/www42/aztraining/blob/master/New-Tenant/Redeem-Azure-Pass.md)
+---
+
+[Claim Badge (Microsoft Learn)](https://learn.microsoft.com/users/me/achievements?redeem=YGND2K&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
+
+---
 
 ## Microsoft Learn
 
 [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
-[My 😀 SC-900 Collection](https://docs.microsoft.com/en-us/users/tjaekel/collections/04jnsdmyd1273j)
 
 Learning Path [SC-900 Primer: Describe the basic concepts of cybersecurity](https://docs.microsoft.com/en-us/learn/paths/describe-basic-concepts-of-cybersecurity/)
 
@@ -34,11 +34,8 @@ Learning Path [SC-900 Part 4: Describe the capabilities of Microsoft compliance 
 
 ## Useful links
 
-[Skillpipe](https://skillpipe.com)
 
-[Skillable (Learn on Demand)](https://brainymotion.learnondemand.net) (Register with Training Key)
-
-[Microsoft Certification Poster](https://aka.ms/traincertposter)
+[Microsoft Training and Certification](https://aka.ms/traincertposter)
 
 [Channel 9 Shows (now in Microsoft Learn)](https://docs.microsoft.com/en-us/shows/browse)
 
