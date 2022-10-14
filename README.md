@@ -5,7 +5,10 @@
 
 [SC-900 Lab instructions on GitHub](https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/tree/master/Instructions/Labs)
 
-[Lab environment Skillable](https://brainymotion.learnondemand.net) (1. Log in with your Skillabble account 2. Register with Training Key)
+[Lab environment Skillable](https://brainymotion.learnondemand.net) 
+
+1. Sign in with your Skillable account 
+2. Register with Training Key
 
 ---
 
