@@ -12,9 +12,9 @@
 
 ---
 
-[Feedback zum Seminar (Metrics That Matter)](#sc-900-microsoft-security-compliance-and-identity-fundamentals)
+[Give Feedback! (Metrics That Matter)](#sc-900-microsoft-security-compliance-and-identity-fundamentals)
 
-[Claim Badge (Microsoft Learn)](#sc-900-microsoft-security-compliance-and-identity-fundamentals)
+[Claim your Badge! (Microsoft Learn)](#sc-900-microsoft-security-compliance-and-identity-fundamentals)
 
 ---
 
