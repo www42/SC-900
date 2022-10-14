@@ -17,6 +17,8 @@
 
 [click here](#useful-links)
 
+[click here 2](#sc-900-microsoft-security-compliance-and-identity-fundamentals)
+
 ---
 
 
