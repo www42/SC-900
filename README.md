@@ -1,7 +1,17 @@
 # SC-900 Microsoft Security, Compliance, and Identity Fundamentals
 
+## SC-900 at Microsoft Learn: Four Learning Paths 
 
-[SC-900 on Microsoft Learn (4 parts)](https://docs.microsoft.com/en-us/learn/paths/describe-concepts-of-security-compliance-identity/)
+[Learning Path Microsoft Security, Compliance, and Identity Fundamentals: Describe the concepts of security, compliance, and identity ](https://docs.microsoft.com/en-us/learn/paths/describe-concepts-of-security-compliance-identity/)
+
+[Learning Path Microsoft Security, Compliance, and Identity Fundamentals: Describe the capabilities of Microsoft Azure Active Directory](https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-identity-access/)
+
+[Learning Path Microsoft Security, Compliance, and Identity Fundamentals: Describe the capabilities of Microsoft security solutions](https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-security-solutions/)
+
+[Learning Path Microsoft Security, Compliance, and Identity Fundamentals: Describe the capabilities of Microsoft compliance solutions](https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-compliance-solutions/)
+
+
+## SC-900 Labs
 
 [SC-900 Lab instructions on GitHub](https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/tree/master/Instructions/Labs)
 
@@ -18,27 +28,33 @@
 
 ---
 
-
-
-## Useful links
-
-[Microsoft Training and Certification](https://aka.ms/traincertposter)
+## Microsoft Learn
 
 [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
+
+[Microsoft Training and Certification](https://aka.ms/traincertposter)
 
 [Azure shows on Microsoft Learn](https://learn.microsoft.com/en-us/shows/browse?products=azure)
 
 [Azure documentation](https://docs.microsoft.com/en-us/azure/)
 
-[Azure on YouTube](https://www.youtube.com/c/MicrosoftAzure)
+[Azure Friday](https://docs.microsoft.com/en-us/shows/azure-friday/)
 
-[Microsoft Mechanics on YouTube](https://www.youtube.com/c/MicrosoftMechanicsSeries)
+
+## More (Useful) links
+
+[Nobel Prize in Pchysics 2022 (YouTube, Harald Lesch)](https://www.youtube.com/watch?v=-F8VFBrq1uU)
+
+[Wer ist eigentlich Paul?](https://www.youtube.com/watch?v=FNZyCK1HwXM)
+
+[Scott Hanselman](https://www.hanselman.com/)
+
+[Azure on YouTube](https://www.youtube.com/c/MicrosoftAzure)
 
 [Azure Blog](https://azure.microsoft.com/en-us/blog/)
 
-[Azure Friday](https://docs.microsoft.com/en-us/shows/azure-friday/)
 
-[Scott Hanselman](https://www.hanselman.com/)
+
 
 
 ##  Your Trainer
