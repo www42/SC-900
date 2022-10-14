@@ -1,4 +1,6 @@
-# SC-900 Microsoft Security, Compliance, and Identity Fundamentals
+# SC-900 
+
+# Microsoft Security, Compliance, and Identity Fundamentals
 
 
 [SC-900 on Microsoft Learn (4 parts)](https://docs.microsoft.com/en-us/learn/paths/describe-concepts-of-security-compliance-identity/)
