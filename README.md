@@ -5,7 +5,7 @@
 
 [SC-900 Lab instructions on GitHub](https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/tree/master/Instructions/Labs)
 
-[Lab environment Skillable](https://brainymotion.learnondemand.net) (Register with Training Key)
+[Lab environment Skillable](https://brainymotion.learnondemand.net) (1. Log in with your Skillabble account 2. Register with Training Key)
 
 ---
 
@@ -41,19 +41,22 @@
 ##  Your Trainer
 #### Thomas Jäkel
 
+
 <img src="https://download69118.blob.core.windows.net/anon/Profilbild.jpg" width="200"/>
+<a href="https://www.credly.com/badges/c1fe9e82-60d2-4268-8204-3709479a2bf9/public_url"><img src="https://download69118.blob.core.windows.net/anon/MCT-badge.png" width="130"/></a>
+<a href="https://www.credly.com/badges/fc4737d8-923a-4d37-8f1a-497c08a7c1ff/public_url"><img src="https://download69118.blob.core.windows.net/anon/AAI-badge.png" width="150"/></a>
 
 [My certifications](https://www.credly.com/users/thomas-jakel)
 
-[Email](mailto:thomas.jaekel@brainymotion.de?subject=SC-900)
+[Email me](mailto:thomas.jaekel@brainymotion.de?subject=SC-900)
 
-[GitHub](https://github.com/www42)
+[Check out my GitHub repos](https://github.com/www42)
 
-[linkedIn](https://linkedin.com/in/tjkkll)
+[Find me on LinkedIn](https://linkedin.com/in/tjkkll)
 
-[Twitter](https://twitter.com/tjkkll)
+[Follow me on Twitter](https://twitter.com/tjkkll)
 
-[Blog](https://blog.az.training)
+[My Blog](https://blog.az.training)
 
 ---
 
