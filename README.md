@@ -1,9 +1,11 @@
 # SC-900 Microsoft Security, Compliance, and Identity Fundamentals
 
-[SC-900 Labs](https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/tree/master/Instructions/Labs)
+
+[SC-900 on Microsoft Learn (4 parts)](https://docs.microsoft.com/en-us/learn/paths/describe-concepts-of-security-compliance-identity/)
+
+[SC-900 Labs on GitHub](https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/tree/master/Instructions/Labs)
 
 [Skillable (Learn on Demand)](https://brainymotion.learnondemand.net) (Register with Training Key)
-
 
 ---
 
@@ -15,29 +17,15 @@
 
 ---
 
-## Microsoft Learn
-
-[Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
-
-
-Learning Path [SC-900 Primer: Describe the basic concepts of cybersecurity](https://docs.microsoft.com/en-us/learn/paths/describe-basic-concepts-of-cybersecurity/)
-
-Learning Path [SC-900 Part 1: Describe the concepts of security, compliance, and identity](https://docs.microsoft.com/en-us/learn/paths/describe-concepts-of-security-compliance-identity/)
-
-Learning Path [SC-900 Part 2: Describe the capabilities of Microsoft Identity and access management solutions](https://docs.microsoft.com/en-us/learn/paths/describe-capabilities-of-microsoft-identity-access/)
-
-Learning Path [SC-900 Part 3: Describe the capabilities of Microsoft security solutions](https://docs.microsoft.com/en-us/learn/paths/describe-capabilities-of-microsoft-security-solutions/)
-
-Learning Path [SC-900 Part 4: Describe the capabilities of Microsoft compliance solutions](https://docs.microsoft.com/en-us/learn/paths/describe-capabilities-of-microsoft-compliance-solutions/)
-
 
 
 ## Useful links
 
-
 [Microsoft Training and Certification](https://aka.ms/traincertposter)
 
-[Channel 9 Shows (now in Microsoft Learn)](https://docs.microsoft.com/en-us/shows/browse)
+[Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
+
+[Azure shows on Microsoft Learn](https://learn.microsoft.com/en-us/shows/browse?products=azure)
 
 [Azure documentation](https://docs.microsoft.com/en-us/azure/)
 
