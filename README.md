@@ -15,7 +15,7 @@
 
 [Claim Badge (Microsoft Learn)](https://learn.microsoft.com/users/me/achievements?redeem=YGND2K&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
 
-[create an anchor](##Useful-links)
+[create an anchor](foo bar)
 ---
 
 
