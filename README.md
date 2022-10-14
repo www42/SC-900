@@ -1,25 +1,19 @@
-# SC-900 
-
-# Microsoft Security, Compliance, and Identity Fundamentals
+# SC-900 Microsoft Security, Compliance, and Identity Fundamentals
 
 
 [SC-900 on Microsoft Learn (4 parts)](https://docs.microsoft.com/en-us/learn/paths/describe-concepts-of-security-compliance-identity/)
 
-[SC-900 Labs on GitHub](https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/tree/master/Instructions/Labs)
+[SC-900 Lab instructions on GitHub](https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/tree/master/Instructions/Labs)
 
-[Skillable](https://brainymotion.learnondemand.net) (Register with Training Key)
-
----
-
-[Feedback zum Seminar (Metrics That Matter)](https://www.metricsthatmatter.com/url/u.aspx?7705B4091189478111)
+[Lab environment Skillable](https://brainymotion.learnondemand.net) (Register with Training Key)
 
 ---
 
-[Claim Badge (Microsoft Learn)](https://learn.microsoft.com/users/me/achievements?redeem=YGND2K&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
+[Feedback zum Seminar (Metrics That Matter)](#sc-900-microsoft-security-compliance-and-identity-fundamentals)
 
-[click here](#useful-links)
+---
 
-[click here 2](#sc-900-microsoft-security-compliance-and-identity-fundamentals)
+[Claim Badge (Microsoft Learn)](#sc-900-microsoft-security-compliance-and-identity-fundamentals)
 
 ---
 
@@ -62,3 +56,7 @@
 [Twitter](https://twitter.com/tjkkll)
 
 [Blog](https://blog.az.training)
+
+---
+
+[Top](#sc-900-microsoft-security-compliance-and-identity-fundamentals)
