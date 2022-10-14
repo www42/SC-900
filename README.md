@@ -5,7 +5,7 @@
 
 [SC-900 Labs on GitHub](https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/tree/master/Instructions/Labs)
 
-[Skillable (Learn on Demand)](https://brainymotion.learnondemand.net) (Register with Training Key)
+[Skillable](https://brainymotion.learnondemand.net) (Register with Training Key)
 
 ---
 
@@ -15,6 +15,7 @@
 
 [Claim Badge (Microsoft Learn)](https://learn.microsoft.com/users/me/achievements?redeem=YGND2K&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
 
+[create an anchor](##Useful-links)
 ---
 
 
