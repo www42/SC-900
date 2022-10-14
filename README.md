@@ -1,6 +1,6 @@
 # SC-900 Microsoft Security, Compliance, and Identity Fundamentals
 
-## SC-900 at Microsoft Learn: Four Learning Paths 
+## SC-900 at Microsoft Learn
 
 [Learning Path Microsoft Security, Compliance, and Identity Fundamentals: Describe the concepts of security, compliance, and identity ](https://docs.microsoft.com/en-us/learn/paths/describe-concepts-of-security-compliance-identity/)
 
