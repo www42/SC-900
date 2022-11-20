@@ -2,13 +2,13 @@
 
 ## SC-900 at Microsoft Learn
 
-[Learning Path Microsoft Security, Compliance, and Identity Fundamentals: Describe the concepts of security, compliance, and identity ](https://docs.microsoft.com/en-us/learn/paths/describe-concepts-of-security-compliance-identity/)
+[Learning Path: Describe the concepts of security, compliance, and identity ](https://docs.microsoft.com/en-us/learn/paths/describe-concepts-of-security-compliance-identity/)
 
-[Learning Path Microsoft Security, Compliance, and Identity Fundamentals: Describe the capabilities of Microsoft Azure Active Directory](https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-identity-access/)
+[Learning Path: Describe the capabilities of Microsoft Azure Active Directory](https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-identity-access/)
 
-[Learning Path Microsoft Security, Compliance, and Identity Fundamentals: Describe the capabilities of Microsoft security solutions](https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-security-solutions/)
+[Learning Path: Describe the capabilities of Microsoft security solutions](https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-security-solutions/)
 
-[Learning Path Microsoft Security, Compliance, and Identity Fundamentals: Describe the capabilities of Microsoft compliance solutions](https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-compliance-solutions/)
+[Learning Path Microsoft: Describe the capabilities of Microsoft compliance solutions](https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-compliance-solutions/)
 
 
 ## SC-900 Labs
