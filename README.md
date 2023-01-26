@@ -22,9 +22,9 @@
 
 ---
 
-[Give Feedback! (Metrics That Matter)](#sc-900-microsoft-security-compliance-and-identity-fundamentals)
+[Give Feedback! (Metrics That Matter)](https://www.metricsthatmatter.com/url/u.aspx?09CDBC0DD193547334)
 
-[Claim your Badge! (Microsoft Learn)](#sc-900-microsoft-security-compliance-and-identity-fundamentals)
+[Claim your Badge! (Microsoft Learn)](#https://learn.microsoft.com/users/me/achievements?redeem=DP333M&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
 
 ---
 
