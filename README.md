@@ -1,6 +1,6 @@
 # SC-900 Microsoft Security, Compliance, and Identity Fundamentals
 
-
+[Get the presentation](pdf)
 
 ## SC-900 at Microsoft Learn
 
