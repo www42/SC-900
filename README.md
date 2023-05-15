@@ -1,6 +1,6 @@
 # SC-900 Microsoft Security, Compliance, and Identity Fundamentals
 
-[Get the presentation](pdf)
+
 
 ## SC-900 at Microsoft Learn
 
@@ -24,9 +24,9 @@
 
 ---
 
-[Give Feedback! (Metrics That Matter)](https://www.metricsthatmatter.com/url/u.aspx?09CDBC0DD193547334)
+[Give Feedback! (Metrics That Matter)](#sc-900-microsoft-security-compliance-and-identity-fundamentals)
 
-[Claim your Badge! (Microsoft Learn)](https://learn.microsoft.com/users/me/achievements?redeem=DP333M&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
+[Claim your Badge! (Microsoft Learn)](#sc-900-microsoft-security-compliance-and-identity-fundamentals)
 
 ---
 
@@ -64,7 +64,7 @@
 
 
 <img src="https://download69118.blob.core.windows.net/anon/Profilbild.jpg" width="200"/>
-<a href="https://www.credly.com/badges/c1fe9e82-60d2-4268-8204-3709479a2bf9/public_url"><img src="https://download69118.blob.core.windows.net/anon/MCT-badge.png" width="130"/></a>
+<a href="https://www.credly.com/badges/45225cf5-ede7-45d2-8ac6-b5a22315679c/public_url"><img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-trainer-2023-2024.png" width="130"/></a>
 <a href="https://www.credly.com/badges/fc4737d8-923a-4d37-8f1a-497c08a7c1ff/public_url"><img src="https://download69118.blob.core.windows.net/anon/AAI-badge.png" width="150"/></a>
 
 [My certifications](https://www.credly.com/users/thomas-jakel)
