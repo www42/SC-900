@@ -1,10 +1,16 @@
 # SC-900 Microsoft Security, Compliance, and Identity Fundamentals
 
-[Get the presentation](pdf)
+---
 
 [Give Feedback! (Metics that Matter)](https://www.metricsthatmatter.com/url/u.aspx?C59926CAC197444508)
 
 [Claim your Badge! (Microsoft Learn)](https://learn.microsoft.com/users/me/achievements?redeem=V7Q3ZN&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
+
+[Get the presentation](pdf)
+
+---
+
+
 
 ## SC-900 at Microsoft Learn
 
@@ -26,13 +32,6 @@
 1. Sign in with your Skillable account 
 2. Register with Training Key
 
----
-
-[Give Feedback! (Metrics That Matter)](#sc-900-microsoft-security-compliance-and-identity-fundamentals)
-
-[Claim your Badge! (Microsoft Learn)](#sc-900-microsoft-security-compliance-and-identity-fundamentals)
-
----
 
 ## Microsoft Learn
 
