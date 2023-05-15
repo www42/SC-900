@@ -2,6 +2,10 @@
 
 [Get the presentation](pdf)
 
+[Give Feedback! (Metics that Matter)](https://www.metricsthatmatter.com/url/u.aspx?C59926CAC197444508)
+
+[Claim your Badge! (Microsoft Learn)](https://learn.microsoft.com/users/me/achievements?redeem=V7Q3ZN&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
+
 ## SC-900 at Microsoft Learn
 
 [Learning Path: Describe the concepts of security, compliance, and identity ](https://docs.microsoft.com/en-us/learn/paths/describe-concepts-of-security-compliance-identity/)
