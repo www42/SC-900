@@ -1,13 +1,5 @@
 # SC-900 Microsoft Security, Compliance, and Identity Fundamentals
 
----
-
-[Give Feedback](https://www.metricsthatmatter.com/url/u.aspx?EE6257304199776654)
-
-[Claim your badge](https://learn.microsoft.com/users/me/achievements?redeem=XLV746&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
-
-[presentation](pdf)
----
 
 
 
