@@ -8,7 +8,7 @@
 
 [Learning Path: Describe the concepts of security, compliance, and identity ](https://docs.microsoft.com/en-us/learn/paths/describe-concepts-of-security-compliance-identity/)
 
-[Learning Path: Describe the capabilities of Microsoft Azure Active Directory](https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-identity-access/)
+[Learning Path: Describe the capabilities of Microsoft Entra ID](https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-identity-access/)
 
 [Learning Path: Describe the capabilities of Microsoft security solutions](https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-security-solutions/)
 
