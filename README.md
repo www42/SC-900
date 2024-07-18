@@ -24,6 +24,19 @@
 1. Sign in with your Skillable account 
 2. Register with Training Key
 
+## New: Applied Skills
+
+[Announcing Applied Skills](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/announcing-microsoft-applied-skills-the-new-credentials-to/ba-p/3775645)
+
+[Applied Skills vs Certification](https://aka.ms/ChooseYourMicrosoftCredential)
+
+Applied Skill [Configure secure access to your workloads using Azure networking](https://learn.microsoft.com/en-us/credentials/applied-skills/configure-secure-workloads-use-azure-virtual-networking/)
+
+Applied Skill [Secure storage for Azure Files and Azure Blob Storage](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-storage-azure-files-azure-blob-storage/)
+
+
+[Browse Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
+
 
 ## Microsoft Learn
 
