@@ -1,6 +1,10 @@
 # SC-900 Microsoft Security, Compliance, and Identity Fundamentals
 
+[Give Feedback!](https://www.metricsthatmatter.com/url/u.aspx?F20FADFD7212203985)
 
+[Grab your bades](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=VX86R3)
+
+[Get the presentation](pdf/)
 
 
 
