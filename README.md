@@ -1,11 +1,5 @@
 # SC-900 Microsoft Security, Compliance, and Identity Fundamentals
 
-[Give Feedback!](https://www.metricsthatmatter.com/url/u.aspx?F20FADFD7212203985)
-
-[Grab your bades](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=VX86R3)
-
-[Get the presentation](pdf/)
-
 
 
 ## SC-900 at Microsoft Learn
@@ -23,10 +17,13 @@
 
 [SC-900 Lab instructions on GitHub](https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/tree/master/Instructions/Labs)
 
-[Lab environment Skillable](https://brainymotion.learnondemand.net) 
+<!-- [Lab environment Skillable](https://brainymotion.learnondemand.net) 
 
 1. Sign in with your Skillable account 
-2. Register with Training Key
+2. Register with Training Key -->
+
+[Go Deploy](https://lms.godeploy.it)
+
 
 ## New: Applied Skills
 
