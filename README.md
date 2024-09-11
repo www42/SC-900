@@ -13,6 +13,13 @@
 [Learning Path Microsoft: Describe the capabilities of Microsoft compliance solutions](https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-compliance-solutions/)
 
 
+## SC-900 Exam
+
+[SC-900 Exam](https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/)
+
+[Übungsfragen](https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/practice/assessment?assessment-type=practice&assessmentId=11&practice-assessment-type=certification)
+
+
 ## SC-900 Labs
 
 [SC-900 Lab instructions on GitHub](https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/tree/master/Instructions/Labs)
