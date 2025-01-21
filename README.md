@@ -1,7 +1,7 @@
-[LP1]https://docs.microsoft.com/en-us/learn/paths/describe-concepts-of-security-compliance-identity/
-[LP2]https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-identity-access/
-[LP3]https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-security-solutions/
-[LP4]https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-compliance-solutions/
+[LP1]: https://docs.microsoft.com/en-us/learn/paths/describe-concepts-of-security-compliance-identity/
+[LP2]: https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-identity-access/
+[LP3]: https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-security-solutions/
+[LP4]: https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-compliance-solutions/
 
 
 # SC-900 Microsoft Security, Compliance, and Identity Fundamentals
