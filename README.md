@@ -67,17 +67,19 @@
 
 ## Useful links
 
-[Nobel Prize in Physics 2022 (YouTube, Harald Lesch)](https://www.youtube.com/watch?v=-F8VFBrq1uU)
+[Classify data using sensitive info types with Microsoft Purview Information Protection - Interactive guide](https://mslearn.cloudguides.com/guides/Classify%20data%20using%20sensitive%20info%20types%20with%20Microsoft%20Purview%20Information%20Protection)
 
-[Wer ist eigentlich Paul?](https://www.youtube.com/watch?v=FNZyCK1HwXM)
+[Create labels and label policies with Microsoft Purview Information Protection - Interactive guide](https://mslearn.cloudguides.com/guides/Create%20labels%20and%20label%20policies%20with%20Microsoft%20Purview%20Information%20Protection)
 
-[Scott Hanselman](https://www.hanselman.com/)
+[Microsoft Purview Insider Risk Management - Interactive guides](https://mslearn.cloudguides.com/guides/Minimize%20internal%20risks%20with%20insider%20risk%20management%20in%20Microsoft%20365)
 
-[Azure on YouTube](https://www.youtube.com/c/MicrosoftAzure)
+[Identify sensitive content using trainable classifiers in Microsoft Purview Information Protection - Interactive guide](https://mslearn.cloudguides.com/guides/Identify%20content%20using%20trainable%20classifiers%20in%20Microsoft%20Purview%20Information%20Protection)
 
-[Azure Blog](https://azure.microsoft.com/en-us/blog/)
+[Monitor the use of sensitive information in your organization with Microsoft Purview Information Protection](https://mslearn.cloudguides.com/guides/Monitor%20the%20use%20of%20sensitive%20information%20in%20your%20organization%20with%20Microsoft%20Purview%20Information%20Protection)
 
 
+
+[Microsoft Defender simulation](https://app.highlights.guide/start/f4f590f6-8937-40f9-91ec-632de546ab98?token=40f793d4-2956-40a4-b11a-6b3d4f92557f)
 
 
 <br>
