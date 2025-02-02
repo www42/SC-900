@@ -77,10 +77,9 @@
 
 [Monitor the use of sensitive information in your organization with Microsoft Purview Information Protection](https://mslearn.cloudguides.com/guides/Monitor%20the%20use%20of%20sensitive%20information%20in%20your%20organization%20with%20Microsoft%20Purview%20Information%20Protection)
 
-
-
 [Microsoft Defender simulation](https://app.highlights.guide/start/f4f590f6-8937-40f9-91ec-632de546ab98?token=40f793d4-2956-40a4-b11a-6b3d4f92557f)
 
+[Microsoft Cybersecurity Reference Architectures (MCRA)](https://learn.microsoft.com/en-us/security/adoption/mcra)
 
 <br>
 
