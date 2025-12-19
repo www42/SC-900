@@ -7,9 +7,11 @@
 # SC-900 Microsoft Security, Compliance, and Identity Fundamentals
 
 
-Seminar 14.05.2025
+<!--
+Seminar 19.12.2025
 
 [Präsentation](pdf/)
+-->
 
 ## Learning Paths
 
@@ -74,12 +76,6 @@ Seminar 14.05.2025
 
 
 ## Useful links
-
-[techConference Vienna 03.-04. Juni 2025](https://techconference.at/)
-
-[Microsoft Build 2025](https://build.microsoft.com/en-US/home)
-
-[Microsoft Ignite 2025](https://ignite.microsoft.com/en-US/home)
 
 
 [Classify data using sensitive info types with Microsoft Purview Information Protection - Interactive guide](https://mslearn.cloudguides.com/guides/Classify%20data%20using%20sensitive%20info%20types%20with%20Microsoft%20Purview%20Information%20Protection)
