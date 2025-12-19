@@ -7,11 +7,9 @@
 # SC-900 Microsoft Security, Compliance, and Identity Fundamentals
 
 
-<!--
 Seminar 19.12.2025
 
 [Präsentation](pdf/)
--->
 
 ## Learning Paths
 
